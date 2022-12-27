@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UgkQ4ARwxD31fO0gMODMdTMVk2qTwtOyTaFYVPlJ7EFsWwDc1SKl4nraW+k8BJUEWJxbpgwy5vgG8V/HkPZD1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\source\\repos\\ProjeAracKiralama\\ProjeAracKiralama\\ProjeAracKiralama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
